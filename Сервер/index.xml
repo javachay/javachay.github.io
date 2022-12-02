@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Сервер on JavaChay SMP</title>
+    <link>https://example.com/%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80/</link>
+    <description>Recent content in Сервер on JavaChay SMP</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Сборка</title>
+      <link>https://example.com/%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B0/</guid>
+      <description>Редакции сборки # Maximum Lite Предназначение Для мощных пк Для слабых пк Поддержка шейдеров Да Нет Атмосферные моды Да Минимальные Инструкция по установке # Инструкция предназначена для тех, кто ранее не устанавливал сборки.
+Официальный лаунчер # Скачать сборку нужной редакции Создать папку для сборки и разархивировать туда скачанный архив Установить Fabric 1.19.2 последней версии (скачать) Перезапустить лаунчер, если он был открыт Создать новую установку и настроить её как описано ниже Установить путь к созданной ранее папке, например C:\Games\JavaChaySMP Выбрать версию Fabric 1.</description>
+    </item>
+    
+    <item>
+      <title>Правила</title>
+      <link>https://example.com/%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0/</guid>
+      <description>1. Поощряется # 1.1. Строительство дорог.
+1.2. Облагораживание ландшафта.
+1.3. Строительство в том же стиле, что и постройки рядом.
+2. Общение # 2.1. Не быть токсичным.
+2.2. Знать меру в мате.
+2.3. Если ваша дисскуссия переростает в рознь, перейдите в другое место.
+3. Игра # 3.1. Запрещено использовать нечестные модификации клиента, включая x-ray, мини-карту, модификации, показывающие координаты и т.д.
+3.2. Запрещено гриферить ландшафт и постройки, включая: взрывы, &amp;ldquo;случайно сломал&amp;rdquo;, и т.</description>
+    </item>
+    
+    <item>
+      <title>Правила для персонала</title>
+      <link>https://example.com/%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B0/</guid>
+      <description>1. Поощряется # 1.1. Исполнение своих обязанностей вовремя.
+1.2. Качественное исполнение своих обязанностей.
+2. Запрещается # 2.2. Злоупотребление своими привилегиями, будь то в свою или чужую пользу.</description>
+    </item>
+    
+  </channel>
+</rss>

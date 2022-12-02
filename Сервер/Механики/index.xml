@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Механики on JavaChay SMP</title>
+    <link>https://example.com/%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80/%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%B8/</link>
+    <description>Recent content in Механики on JavaChay SMP</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80/%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Особенности геймплея</title>
+      <link>https://example.com/%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80/%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%B8/%D0%9E%D1%81%D0%BE%D0%B1%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B3%D0%B5%D0%B9%D0%BC%D0%BF%D0%BB%D0%B5%D1%8F/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80/%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%B8/%D0%9E%D1%81%D0%BE%D0%B1%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B3%D0%B5%D0%B9%D0%BC%D0%BF%D0%BB%D0%B5%D1%8F/</guid>
+      <description>Геймплей на сервере отличается от стандартного ванильного (помимо нововведений, вносимых модами) рядом изменений:
+Нет деревень жителей и самих жителей в том числе по причине эксплуатации их игроками, что не вписывается; Нет нежити по лорным причинам, вместо этого кости добываются из криперов; Край и Ад закрыты до их официального лорного открытия; Взрывы не ломают территорию; </description>
+    </item>
+    
+    <item>
+      <title>Уникальные способности</title>
+      <link>https://example.com/%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80/%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%B8/%D0%A3%D0%BD%D0%B8%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%BD%D0%BE%D1%81%D1%82%D0%B8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80/%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%B8/%D0%A3%D0%BD%D0%B8%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%BD%D0%BE%D1%81%D1%82%D0%B8/</guid>
+      <description>Уникальные способности - геймплейная механика сервера, введённая для повышения кооперативности игроков. Она представляет из себя наличие у отдельных игроков навыков, которых нет у других, и которые связаны с родом деятельности их персонажа.
+К примеру, только кузнецы могут крафтить алмазное снаряжение, и только зачарователи могут пользоваться столом зачарований.</description>
+    </item>
+    
+  </channel>
+</rss>
